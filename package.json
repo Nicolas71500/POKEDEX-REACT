@@ -16,6 +16,7 @@
   },
   "scripts": {
     "start": "export NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
+    "start:api": "json-server --watch src/models/db.json --port 3001",
     "build": "react-scripts build"
   },
   "eslintConfig": {

@@ -2,6 +2,7 @@ import React, { FunctionComponent, useState } from "react";
 import Pokemon from "../models/pokemon";
 import "./pokemon-card.css";
 import { useHistory } from "react-router-dom";
+import formatDate from "../helpers/format-date";
 
 type Props = {
   pokemon: Pokemon;
@@ -72,6 +73,18 @@ const PokemonCard: FunctionComponent<Props> = ({
     history.push(`/pokemons/${id}`);
   };
 
+  // Convertir pokemon.created en objet Date
+  let createdDate: Date;
+  try {
+    createdDate = new Date(pokemon.created);
+    if (isNaN(createdDate.getTime())) {
+      throw new Error("Invalid date");
+    }
+  } catch (error) {
+    console.error("Error parsing date:", error);
+    createdDate = new Date(); // Fallback to current date
+  }
+
   return (
     <div
       className="col s6 m4"
@@ -87,7 +100,7 @@ const PokemonCard: FunctionComponent<Props> = ({
           <div className="card-content">
             <p>{pokemon.name}</p>
             <p>
-              <small>{pokemon.created.toLocaleDateString()}</small>
+              <small>{formatDate(createdDate)}</small>
             </p>
             {pokemon.types.map((type) => (
               <span key={type} className={formatType(type)}>
