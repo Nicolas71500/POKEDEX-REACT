@@ -33,9 +33,15 @@ export default class PokemonService {
   }
 
   static addPokemon(pokemon: Pokemon): Promise<Pokemon> {
+    // Convertir l'ID en chaîne de caractères
+    const pokemonWithStringId = {
+      ...pokemon,
+      id: String(pokemon.id),
+    };
+
     return fetch("http://localhost:3001/pokemons", {
       method: "POST",
-      body: JSON.stringify(pokemon),
+      body: JSON.stringify(pokemonWithStringId),
       headers: { "Content-Type": "application/json" },
     })
       .then((response) => response.json())

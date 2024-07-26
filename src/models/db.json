@@ -6,7 +6,10 @@
       "hp": 25,
       "cp": 5,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png",
-      "types": ["Plante", "Poison"],
+      "types": [
+        "Plante",
+        "Poison"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -15,7 +18,9 @@
       "hp": 28,
       "cp": 6,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png",
-      "types": ["Feu"],
+      "types": [
+        "Feu"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -24,7 +29,9 @@
       "hp": 21,
       "cp": 4,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png",
-      "types": ["Eau"],
+      "types": [
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -33,7 +40,10 @@
       "hp": 16,
       "cp": 2,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/013.png",
-      "types": ["Insecte", "Poison"],
+      "types": [
+        "Insecte",
+        "Poison"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -42,7 +52,10 @@
       "hp": 30,
       "cp": 7,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/016.png",
-      "types": ["Normal", "Vol"],
+      "types": [
+        "Normal",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -51,7 +64,9 @@
       "hp": 18,
       "cp": 6,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png",
-      "types": ["Normal"],
+      "types": [
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -60,7 +75,10 @@
       "hp": 14,
       "cp": 5,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/021.png",
-      "types": ["Normal", "Vol"],
+      "types": [
+        "Normal",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -69,7 +87,9 @@
       "hp": 16,
       "cp": 4,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/023.png",
-      "types": ["Poison"],
+      "types": [
+        "Poison"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -78,7 +98,9 @@
       "hp": 21,
       "cp": 7,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
-      "types": ["Electrik"],
+      "types": [
+        "Electrik"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -87,7 +109,9 @@
       "hp": 19,
       "cp": 3,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png",
-      "types": ["Normal"],
+      "types": [
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -96,7 +120,9 @@
       "hp": 25,
       "cp": 5,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/035.png",
-      "types": ["Fée"],
+      "types": [
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -105,7 +131,9 @@
       "hp": 17,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png",
-      "types": ["Feu"],
+      "types": [
+        "Feu"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -114,7 +142,10 @@
       "hp": 26,
       "cp": 6,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/039.png",
-      "types": ["Normal", "Fée"],
+      "types": [
+        "Normal",
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -123,7 +154,10 @@
       "hp": 16,
       "cp": 4,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/041.png",
-      "types": ["Poison", "Vol"],
+      "types": [
+        "Poison",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -132,7 +166,10 @@
       "hp": 18,
       "cp": 5,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/043.png",
-      "types": ["Plante", "Poison"],
+      "types": [
+        "Plante",
+        "Poison"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -141,7 +178,10 @@
       "hp": 14,
       "cp": 4,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/046.png",
-      "types": ["Insecte", "Plante"],
+      "types": [
+        "Insecte",
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -150,7 +190,10 @@
       "hp": 13,
       "cp": 3,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/048.png",
-      "types": ["Insecte", "Poison"],
+      "types": [
+        "Insecte",
+        "Poison"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -159,7 +202,10 @@
       "hp": 15,
       "cp": 6,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png",
-      "types": ["Insecte", "Vol"],
+      "types": [
+        "Insecte",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -168,7 +214,9 @@
       "hp": 28,
       "cp": 7,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/128.png",
-      "types": ["Normal"],
+      "types": [
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -177,7 +225,10 @@
       "hp": 32,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/131.png",
-      "types": ["Eau", "Glace"],
+      "types": [
+        "Eau",
+        "Glace"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -186,7 +237,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/149.png",
-      "types": ["Dragon", "Vol"],
+      "types": [
+        "Dragon",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -195,7 +249,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/145.png",
-      "types": ["Electrik", "Vol"],
+      "types": [
+        "Electrik",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -204,7 +261,10 @@
       "hp": 38,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/144.png",
-      "types": ["Glace", "Vol"],
+      "types": [
+        "Glace",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -213,7 +273,10 @@
       "hp": 37,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/146.png",
-      "types": ["Feu", "Vol"],
+      "types": [
+        "Feu",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -222,7 +285,9 @@
       "hp": 41,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150.png",
-      "types": ["Psy"],
+      "types": [
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -231,7 +296,9 @@
       "hp": 42,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/151.png",
-      "types": ["Psy"],
+      "types": [
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -240,7 +307,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/243.png",
-      "types": ["Electrik"],
+      "types": [
+        "Electrik"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -249,7 +318,9 @@
       "hp": 37,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/244.png",
-      "types": ["Feu"],
+      "types": [
+        "Feu"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -258,7 +329,9 @@
       "hp": 38,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/245.png",
-      "types": ["Eau"],
+      "types": [
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -267,7 +340,10 @@
       "hp": 42,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/249.png",
-      "types": ["Psy", "Vol"],
+      "types": [
+        "Psy",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -276,7 +352,10 @@
       "hp": 41,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/250.png",
-      "types": ["Feu", "Vol"],
+      "types": [
+        "Feu",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -285,7 +364,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/251.png",
-      "types": ["Psy", "Plante"],
+      "types": [
+        "Psy",
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -294,7 +376,9 @@
       "hp": 38,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/377.png",
-      "types": ["Roche"],
+      "types": [
+        "Roche"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -303,7 +387,9 @@
       "hp": 38,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/378.png",
-      "types": ["Glace"],
+      "types": [
+        "Glace"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -312,7 +398,9 @@
       "hp": 38,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/379.png",
-      "types": ["Acier"],
+      "types": [
+        "Acier"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -321,7 +409,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/380.png",
-      "types": ["Dragon", "Psy"],
+      "types": [
+        "Dragon",
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -330,7 +421,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/381.png",
-      "types": ["Dragon", "Psy"],
+      "types": [
+        "Dragon",
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -339,7 +433,9 @@
       "hp": 42,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/382.png",
-      "types": ["Eau"],
+      "types": [
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -348,7 +444,9 @@
       "hp": 42,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/383.png",
-      "types": ["Sol"],
+      "types": [
+        "Sol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -357,7 +455,10 @@
       "hp": 41,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/384.png",
-      "types": ["Dragon", "Vol"],
+      "types": [
+        "Dragon",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -366,7 +467,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/385.png",
-      "types": ["Acier", "Psy"],
+      "types": [
+        "Acier",
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -375,7 +479,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/386.png",
-      "types": ["Psy"],
+      "types": [
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -384,7 +490,10 @@
       "hp": 41,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/483.png",
-      "types": ["Acier", "Dragon"],
+      "types": [
+        "Acier",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -393,7 +502,10 @@
       "hp": 41,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/484.png",
-      "types": ["Eau", "Dragon"],
+      "types": [
+        "Eau",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -402,7 +514,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/487.png",
-      "types": ["Spectre", "Dragon"],
+      "types": [
+        "Spectre",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -411,7 +526,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/491.png",
-      "types": ["Ténèbres"],
+      "types": [
+        "Ténèbres"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -420,7 +537,9 @@
       "hp": 38,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/492.png",
-      "types": ["Plante"],
+      "types": [
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -429,7 +548,9 @@
       "hp": 42,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png",
-      "types": ["Normal"],
+      "types": [
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -438,7 +559,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/494.png",
-      "types": ["Psy", "Feu"],
+      "types": [
+        "Psy",
+        "Feu"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -447,7 +571,10 @@
       "hp": 38,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/638.png",
-      "types": ["Acier", "Combat"],
+      "types": [
+        "Acier",
+        "Combat"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -456,7 +583,10 @@
       "hp": 38,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/639.png",
-      "types": ["Roche", "Combat"],
+      "types": [
+        "Roche",
+        "Combat"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -465,7 +595,10 @@
       "hp": 38,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/640.png",
-      "types": ["Plante", "Combat"],
+      "types": [
+        "Plante",
+        "Combat"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -474,7 +607,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/641.png",
-      "types": ["Vol"],
+      "types": [
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -483,7 +618,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/642.png",
-      "types": ["Electrik", "Vol"],
+      "types": [
+        "Electrik",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -492,7 +630,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/643.png",
-      "types": ["Dragon", "Feu"],
+      "types": [
+        "Dragon",
+        "Feu"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -501,7 +642,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/644.png",
-      "types": ["Dragon", "Electrik"],
+      "types": [
+        "Dragon",
+        "Electrik"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -510,7 +654,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/645.png",
-      "types": ["Sol", "Vol"],
+      "types": [
+        "Sol",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -519,7 +666,10 @@
       "hp": 41,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/646.png",
-      "types": ["Dragon", "Glace"],
+      "types": [
+        "Dragon",
+        "Glace"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -528,7 +678,9 @@
       "hp": 42,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/716.png",
-      "types": ["Fée"],
+      "types": [
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -537,7 +689,10 @@
       "hp": 42,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/717.png",
-      "types": ["Ténèbres", "Vol"],
+      "types": [
+        "Ténèbres",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -546,7 +701,10 @@
       "hp": 41,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/718.png",
-      "types": ["Dragon", "Sol"],
+      "types": [
+        "Dragon",
+        "Sol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -555,7 +713,10 @@
       "hp": 40,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/719.png",
-      "types": ["Roche", "Fée"],
+      "types": [
+        "Roche",
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -564,7 +725,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/720.png",
-      "types": ["Psy", "Spectre"],
+      "types": [
+        "Psy",
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -573,7 +737,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/721.png",
-      "types": ["Feu", "Eau"],
+      "types": [
+        "Feu",
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -582,7 +749,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/772.png",
-      "types": ["Normal"],
+      "types": [
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -591,7 +760,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/773.png",
-      "types": ["Normal"],
+      "types": [
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -600,7 +771,9 @@
       "hp": 37,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/789.png",
-      "types": ["Psy"],
+      "types": [
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -609,7 +782,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/790.png",
-      "types": ["Psy"],
+      "types": [
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -618,7 +793,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/791.png",
-      "types": ["Psy", "Acier"],
+      "types": [
+        "Psy",
+        "Acier"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -627,7 +805,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/792.png",
-      "types": ["Psy", "Spectre"],
+      "types": [
+        "Psy",
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -636,7 +817,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/800.png",
-      "types": ["Psy"],
+      "types": [
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -645,7 +828,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/801.png",
-      "types": ["Acier", "Fée"],
+      "types": [
+        "Acier",
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -654,7 +840,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/802.png",
-      "types": ["Combat", "Spectre"],
+      "types": [
+        "Combat",
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -663,7 +852,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/807.png",
-      "types": ["Electrik"],
+      "types": [
+        "Electrik"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -672,7 +863,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/808.png",
-      "types": ["Acier"],
+      "types": [
+        "Acier"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -681,7 +874,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/809.png",
-      "types": ["Acier"],
+      "types": [
+        "Acier"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -690,7 +885,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/888.png",
-      "types": ["Fée", "Acier"],
+      "types": [
+        "Fée",
+        "Acier"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -699,7 +897,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/889.png",
-      "types": ["Combat", "Acier"],
+      "types": [
+        "Combat",
+        "Acier"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -708,7 +909,10 @@
       "hp": 41,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/890.png",
-      "types": ["Poison", "Dragon"],
+      "types": [
+        "Poison",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -717,7 +921,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/891.png",
-      "types": ["Combat"],
+      "types": [
+        "Combat"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -726,7 +932,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/892.png",
-      "types": ["Combat", "Ténèbres"],
+      "types": [
+        "Combat",
+        "Ténèbres"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -735,7 +944,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/893.png",
-      "types": ["Ténèbres", "Plante"],
+      "types": [
+        "Ténèbres",
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -744,7 +956,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/894.png",
-      "types": ["Electrik"],
+      "types": [
+        "Electrik"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -753,7 +967,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/895.png",
-      "types": ["Dragon"],
+      "types": [
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -762,7 +978,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/896.png",
-      "types": ["Glace"],
+      "types": [
+        "Glace"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -771,7 +989,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/897.png",
-      "types": ["Spectre"],
+      "types": [
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -780,7 +1000,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/898.png",
-      "types": ["Psy", "Plante"],
+      "types": [
+        "Psy",
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -789,7 +1012,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/899.png",
-      "types": ["Normal", "Psy"],
+      "types": [
+        "Normal",
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -798,7 +1024,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/900.png",
-      "types": ["Insecte", "Roche"],
+      "types": [
+        "Insecte",
+        "Roche"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -807,7 +1036,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/901.png",
-      "types": ["Normal", "Sol"],
+      "types": [
+        "Normal",
+        "Sol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -816,7 +1048,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/902.png",
-      "types": ["Eau", "Spectre"],
+      "types": [
+        "Eau",
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -825,7 +1060,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/903.png",
-      "types": ["Combat", "Poison"],
+      "types": [
+        "Combat",
+        "Poison"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -834,7 +1072,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/904.png",
-      "types": ["Poison", "Ténèbres"],
+      "types": [
+        "Poison",
+        "Ténèbres"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -843,7 +1084,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/905.png",
-      "types": ["Fée", "Vol"],
+      "types": [
+        "Fée",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -852,7 +1096,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/906.png",
-      "types": ["Plante"],
+      "types": [
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -861,7 +1107,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/909.png",
-      "types": ["Feu"],
+      "types": [
+        "Feu"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -870,7 +1118,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/912.png",
-      "types": ["Eau"],
+      "types": [
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -879,7 +1129,10 @@
       "hp": 41,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1008.png",
-      "types": ["Combat", "Dragon"],
+      "types": [
+        "Combat",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -888,7 +1141,10 @@
       "hp": 41,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1009.png",
-      "types": ["Electrik", "Dragon"],
+      "types": [
+        "Electrik",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -897,7 +1153,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1010.png",
-      "types": ["Psy", "Plante"],
+      "types": [
+        "Psy",
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -906,7 +1165,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/794.png",
-      "types": ["Insecte", "Combat"],
+      "types": [
+        "Insecte",
+        "Combat"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -915,7 +1177,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/795.png",
-      "types": ["Insecte", "Combat"],
+      "types": [
+        "Insecte",
+        "Combat"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -924,7 +1189,9 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/796.png",
-      "types": ["Electrik"],
+      "types": [
+        "Electrik"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -933,7 +1200,10 @@
       "hp": 41,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/797.png",
-      "types": ["Acier", "Vol"],
+      "types": [
+        "Acier",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -942,7 +1212,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/798.png",
-      "types": ["Plante", "Acier"],
+      "types": [
+        "Plante",
+        "Acier"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -951,7 +1224,10 @@
       "hp": 42,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/799.png",
-      "types": ["Ténèbres", "Dragon"],
+      "types": [
+        "Ténèbres",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -960,7 +1236,9 @@
       "hp": 41,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/800.png",
-      "types": ["Psy"],
+      "types": [
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -969,7 +1247,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/801.png",
-      "types": ["Acier", "Fée"],
+      "types": [
+        "Acier",
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -978,7 +1259,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/802.png",
-      "types": ["Combat", "Spectre"],
+      "types": [
+        "Combat",
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -987,7 +1271,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/803.png",
-      "types": ["Poison"],
+      "types": [
+        "Poison"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -996,7 +1282,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/804.png",
-      "types": ["Poison", "Dragon"],
+      "types": [
+        "Poison",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1005,7 +1294,10 @@
       "hp": 41,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/805.png",
-      "types": ["Roche", "Acier"],
+      "types": [
+        "Roche",
+        "Acier"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1014,7 +1306,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/806.png",
-      "types": ["Feu", "Spectre"],
+      "types": [
+        "Feu",
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1023,7 +1318,9 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/807.png",
-      "types": ["Electrik"],
+      "types": [
+        "Electrik"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1032,7 +1329,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/808.png",
-      "types": ["Acier"],
+      "types": [
+        "Acier"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1041,7 +1340,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/809.png",
-      "types": ["Acier"],
+      "types": [
+        "Acier"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1050,7 +1351,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/810.png",
-      "types": ["Plante"],
+      "types": [
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1059,7 +1362,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/813.png",
-      "types": ["Feu"],
+      "types": [
+        "Feu"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1068,7 +1373,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/816.png",
-      "types": ["Eau"],
+      "types": [
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1077,7 +1384,9 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/812.png",
-      "types": ["Plante"],
+      "types": [
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1086,7 +1395,9 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/815.png",
-      "types": ["Feu"],
+      "types": [
+        "Feu"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1095,7 +1406,9 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/818.png",
-      "types": ["Eau"],
+      "types": [
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1104,7 +1417,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/819.png",
-      "types": ["Normal"],
+      "types": [
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1113,7 +1428,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/820.png",
-      "types": ["Normal"],
+      "types": [
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1122,7 +1439,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/821.png",
-      "types": ["Vol"],
+      "types": [
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1131,7 +1450,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/822.png",
-      "types": ["Vol"],
+      "types": [
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1140,7 +1461,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/823.png",
-      "types": ["Vol", "Acier"],
+      "types": [
+        "Vol",
+        "Acier"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1149,7 +1473,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/824.png",
-      "types": ["Insecte"],
+      "types": [
+        "Insecte"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1158,7 +1484,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/825.png",
-      "types": ["Insecte", "Psy"],
+      "types": [
+        "Insecte",
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1167,7 +1496,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/826.png",
-      "types": ["Insecte", "Psy"],
+      "types": [
+        "Insecte",
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1176,7 +1508,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/827.png",
-      "types": ["Ténèbres"],
+      "types": [
+        "Ténèbres"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1185,7 +1519,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/828.png",
-      "types": ["Ténèbres"],
+      "types": [
+        "Ténèbres"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1194,7 +1530,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/829.png",
-      "types": ["Plante"],
+      "types": [
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1203,7 +1541,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/830.png",
-      "types": ["Plante"],
+      "types": [
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1212,7 +1552,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/831.png",
-      "types": ["Normal"],
+      "types": [
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1221,7 +1563,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/832.png",
-      "types": ["Normal"],
+      "types": [
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1230,7 +1574,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/833.png",
-      "types": ["Eau"],
+      "types": [
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1239,7 +1585,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/834.png",
-      "types": ["Eau", "Roche"],
+      "types": [
+        "Eau",
+        "Roche"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1248,7 +1597,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/835.png",
-      "types": ["Electrik"],
+      "types": [
+        "Electrik"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1257,7 +1608,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/836.png",
-      "types": ["Electrik"],
+      "types": [
+        "Electrik"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1266,7 +1619,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/837.png",
-      "types": ["Roche"],
+      "types": [
+        "Roche"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1275,7 +1630,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/838.png",
-      "types": ["Roche", "Feu"],
+      "types": [
+        "Roche",
+        "Feu"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1284,7 +1642,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/839.png",
-      "types": ["Roche", "Feu"],
+      "types": [
+        "Roche",
+        "Feu"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1293,7 +1654,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/840.png",
-      "types": ["Plante", "Dragon"],
+      "types": [
+        "Plante",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1302,7 +1666,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/841.png",
-      "types": ["Plante", "Dragon"],
+      "types": [
+        "Plante",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1311,7 +1678,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/842.png",
-      "types": ["Plante", "Dragon"],
+      "types": [
+        "Plante",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1320,7 +1690,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/843.png",
-      "types": ["Sol"],
+      "types": [
+        "Sol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1329,7 +1701,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/844.png",
-      "types": ["Sol"],
+      "types": [
+        "Sol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1338,7 +1712,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/845.png",
-      "types": ["Vol", "Eau"],
+      "types": [
+        "Vol",
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1347,7 +1724,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/846.png",
-      "types": ["Eau"],
+      "types": [
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1356,7 +1735,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/847.png",
-      "types": ["Eau"],
+      "types": [
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1365,7 +1746,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/848.png",
-      "types": ["Electrik", "Poison"],
+      "types": [
+        "Electrik",
+        "Poison"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1374,7 +1758,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/849.png",
-      "types": ["Electrik", "Poison"],
+      "types": [
+        "Electrik",
+        "Poison"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1383,7 +1770,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/850.png",
-      "types": ["Feu", "Insecte"],
+      "types": [
+        "Feu",
+        "Insecte"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1392,7 +1782,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/851.png",
-      "types": ["Feu", "Insecte"],
+      "types": [
+        "Feu",
+        "Insecte"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1401,7 +1794,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/852.png",
-      "types": ["Combat"],
+      "types": [
+        "Combat"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1410,7 +1805,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/853.png",
-      "types": ["Combat"],
+      "types": [
+        "Combat"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1419,7 +1816,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/854.png",
-      "types": ["Spectre"],
+      "types": [
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1428,7 +1827,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/855.png",
-      "types": ["Spectre"],
+      "types": [
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1437,7 +1838,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/856.png",
-      "types": ["Psy"],
+      "types": [
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1446,7 +1849,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/857.png",
-      "types": ["Psy"],
+      "types": [
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1455,7 +1860,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/858.png",
-      "types": ["Psy", "Fée"],
+      "types": [
+        "Psy",
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1464,7 +1872,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/859.png",
-      "types": ["Ténèbres", "Fée"],
+      "types": [
+        "Ténèbres",
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1473,7 +1884,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/860.png",
-      "types": ["Ténèbres", "Fée"],
+      "types": [
+        "Ténèbres",
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1482,7 +1896,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/861.png",
-      "types": ["Ténèbres", "Fée"],
+      "types": [
+        "Ténèbres",
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1491,7 +1908,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/862.png",
-      "types": ["Ténèbres", "Normal"],
+      "types": [
+        "Ténèbres",
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1500,7 +1920,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/863.png",
-      "types": ["Acier"],
+      "types": [
+        "Acier"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1509,7 +1931,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/864.png",
-      "types": ["Spectre"],
+      "types": [
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1518,7 +1942,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/865.png",
-      "types": ["Combat"],
+      "types": [
+        "Combat"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1527,7 +1953,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/866.png",
-      "types": ["Glace", "Psy"],
+      "types": [
+        "Glace",
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1536,7 +1965,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/867.png",
-      "types": ["Sol", "Spectre"],
+      "types": [
+        "Sol",
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1545,7 +1977,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/868.png",
-      "types": ["Fée"],
+      "types": [
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1554,7 +1988,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/869.png",
-      "types": ["Fée"],
+      "types": [
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1563,7 +1999,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/870.png",
-      "types": ["Combat"],
+      "types": [
+        "Combat"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1572,7 +2010,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/871.png",
-      "types": ["Electrik"],
+      "types": [
+        "Electrik"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1581,7 +2021,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/872.png",
-      "types": ["Glace", "Insecte"],
+      "types": [
+        "Glace",
+        "Insecte"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1590,7 +2033,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/873.png",
-      "types": ["Glace", "Insecte"],
+      "types": [
+        "Glace",
+        "Insecte"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1599,7 +2045,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/874.png",
-      "types": ["Roche"],
+      "types": [
+        "Roche"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1608,7 +2056,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/875.png",
-      "types": ["Glace"],
+      "types": [
+        "Glace"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1617,7 +2067,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/876.png",
-      "types": ["Psy", "Normal"],
+      "types": [
+        "Psy",
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1626,7 +2079,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/877.png",
-      "types": ["Electrik", "Ténèbres"],
+      "types": [
+        "Electrik",
+        "Ténèbres"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1635,7 +2091,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/878.png",
-      "types": ["Acier"],
+      "types": [
+        "Acier"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1644,7 +2102,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/879.png",
-      "types": ["Acier"],
+      "types": [
+        "Acier"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1653,7 +2113,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/880.png",
-      "types": ["Electrik", "Dragon"],
+      "types": [
+        "Electrik",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1662,7 +2125,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/881.png",
-      "types": ["Electrik", "Glace"],
+      "types": [
+        "Electrik",
+        "Glace"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1671,7 +2137,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/882.png",
-      "types": ["Eau", "Dragon"],
+      "types": [
+        "Eau",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1680,7 +2149,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/883.png",
-      "types": ["Eau", "Glace"],
+      "types": [
+        "Eau",
+        "Glace"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1689,7 +2161,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/884.png",
-      "types": ["Acier", "Dragon"],
+      "types": [
+        "Acier",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1698,7 +2173,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/885.png",
-      "types": ["Dragon", "Spectre"],
+      "types": [
+        "Dragon",
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1707,7 +2185,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/886.png",
-      "types": ["Dragon", "Spectre"],
+      "types": [
+        "Dragon",
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1716,7 +2197,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/887.png",
-      "types": ["Dragon", "Spectre"],
+      "types": [
+        "Dragon",
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1725,7 +2209,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/888.png",
-      "types": ["Fée", "Acier"],
+      "types": [
+        "Fée",
+        "Acier"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1734,7 +2221,10 @@
       "hp": 41,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/890.png",
-      "types": ["Poison", "Dragon"],
+      "types": [
+        "Poison",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1743,7 +2233,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/891.png",
-      "types": ["Combat"],
+      "types": [
+        "Combat"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1752,7 +2244,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/892.png",
-      "types": ["Combat", "Ténèbres"],
+      "types": [
+        "Combat",
+        "Ténèbres"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1761,7 +2256,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/893.png",
-      "types": ["Ténèbres", "Plante"],
+      "types": [
+        "Ténèbres",
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1770,7 +2268,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/894.png",
-      "types": ["Electrik"],
+      "types": [
+        "Electrik"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1779,7 +2279,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/895.png",
-      "types": ["Dragon"],
+      "types": [
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1788,7 +2290,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/896.png",
-      "types": ["Glace"],
+      "types": [
+        "Glace"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1797,7 +2301,10 @@
       "hp": 38,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/642.png",
-      "types": ["Electrik", "Vol"],
+      "types": [
+        "Electrik",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1806,7 +2313,10 @@
       "hp": 39,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/643.png",
-      "types": ["Dragon", "Feu"],
+      "types": [
+        "Dragon",
+        "Feu"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1815,7 +2325,10 @@
       "hp": 39,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/644.png",
-      "types": ["Dragon", "Electrik"],
+      "types": [
+        "Dragon",
+        "Electrik"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1824,7 +2337,10 @@
       "hp": 39,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/645.png",
-      "types": ["Sol", "Vol"],
+      "types": [
+        "Sol",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1833,7 +2349,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/646.png",
-      "types": ["Dragon", "Glace"],
+      "types": [
+        "Dragon",
+        "Glace"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1842,7 +2361,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/647.png",
-      "types": ["Eau", "Combat"],
+      "types": [
+        "Eau",
+        "Combat"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1851,7 +2373,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/648.png",
-      "types": ["Normal", "Psy"],
+      "types": [
+        "Normal",
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1860,7 +2385,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/649.png",
-      "types": ["Insecte", "Acier"],
+      "types": [
+        "Insecte",
+        "Acier"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1869,7 +2397,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/650.png",
-      "types": ["Plante"],
+      "types": [
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1878,7 +2408,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/651.png",
-      "types": ["Plante"],
+      "types": [
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1887,7 +2419,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/652.png",
-      "types": ["Plante", "Combat"],
+      "types": [
+        "Plante",
+        "Combat"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1896,7 +2431,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/653.png",
-      "types": ["Feu"],
+      "types": [
+        "Feu"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1905,7 +2442,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/654.png",
-      "types": ["Feu"],
+      "types": [
+        "Feu"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1914,7 +2453,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/655.png",
-      "types": ["Feu", "Psy"],
+      "types": [
+        "Feu",
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1923,7 +2465,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/656.png",
-      "types": ["Eau"],
+      "types": [
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1932,7 +2476,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/657.png",
-      "types": ["Eau"],
+      "types": [
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1941,7 +2487,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/658.png",
-      "types": ["Eau", "Ténèbres"],
+      "types": [
+        "Eau",
+        "Ténèbres"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1950,7 +2499,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/659.png",
-      "types": ["Normal"],
+      "types": [
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1959,7 +2510,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/660.png",
-      "types": ["Normal", "Sol"],
+      "types": [
+        "Normal",
+        "Sol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1968,7 +2522,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/661.png",
-      "types": ["Normal", "Vol"],
+      "types": [
+        "Normal",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1977,7 +2534,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/662.png",
-      "types": ["Feu", "Vol"],
+      "types": [
+        "Feu",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1986,7 +2546,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/663.png",
-      "types": ["Feu", "Vol"],
+      "types": [
+        "Feu",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -1995,7 +2558,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/664.png",
-      "types": ["Insecte"],
+      "types": [
+        "Insecte"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2004,7 +2569,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/665.png",
-      "types": ["Insecte"],
+      "types": [
+        "Insecte"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2013,7 +2580,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/666.png",
-      "types": ["Insecte", "Vol"],
+      "types": [
+        "Insecte",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2022,7 +2592,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/667.png",
-      "types": ["Feu", "Normal"],
+      "types": [
+        "Feu",
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2031,7 +2604,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/668.png",
-      "types": ["Feu", "Normal"],
+      "types": [
+        "Feu",
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2040,7 +2616,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/669.png",
-      "types": ["Fée"],
+      "types": [
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2049,7 +2627,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/670.png",
-      "types": ["Fée"],
+      "types": [
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2058,7 +2638,9 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/671.png",
-      "types": ["Fée"],
+      "types": [
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2067,7 +2649,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/672.png",
-      "types": ["Plante"],
+      "types": [
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2076,7 +2660,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/673.png",
-      "types": ["Plante"],
+      "types": [
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2085,7 +2671,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/674.png",
-      "types": ["Combat"],
+      "types": [
+        "Combat"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2094,7 +2682,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/675.png",
-      "types": ["Combat", "Ténèbres"],
+      "types": [
+        "Combat",
+        "Ténèbres"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2103,7 +2694,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/676.png",
-      "types": ["Normal"],
+      "types": [
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2112,7 +2705,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/677.png",
-      "types": ["Psy"],
+      "types": [
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2121,7 +2716,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/678.png",
-      "types": ["Psy"],
+      "types": [
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2130,7 +2727,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/679.png",
-      "types": ["Acier", "Spectre"],
+      "types": [
+        "Acier",
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2139,7 +2739,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/680.png",
-      "types": ["Acier", "Spectre"],
+      "types": [
+        "Acier",
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2148,7 +2751,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/681.png",
-      "types": ["Acier", "Spectre"],
+      "types": [
+        "Acier",
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2157,7 +2763,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/682.png",
-      "types": ["Fée"],
+      "types": [
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2166,7 +2774,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/683.png",
-      "types": ["Fée"],
+      "types": [
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2175,7 +2785,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/684.png",
-      "types": ["Fée"],
+      "types": [
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2184,7 +2796,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/685.png",
-      "types": ["Fée"],
+      "types": [
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2193,7 +2807,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/686.png",
-      "types": ["Ténèbres", "Psy"],
+      "types": [
+        "Ténèbres",
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2202,7 +2819,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/687.png",
-      "types": ["Ténèbres", "Psy"],
+      "types": [
+        "Ténèbres",
+        "Psy"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2211,7 +2831,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/688.png",
-      "types": ["Roche", "Eau"],
+      "types": [
+        "Roche",
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2220,7 +2843,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/689.png",
-      "types": ["Roche", "Eau"],
+      "types": [
+        "Roche",
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2229,7 +2855,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/690.png",
-      "types": ["Poison", "Eau"],
+      "types": [
+        "Poison",
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2238,7 +2867,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/691.png",
-      "types": ["Poison", "Dragon"],
+      "types": [
+        "Poison",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2247,7 +2879,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/692.png",
-      "types": ["Eau"],
+      "types": [
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2256,7 +2890,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/693.png",
-      "types": ["Eau"],
+      "types": [
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2265,7 +2901,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/694.png",
-      "types": ["Electrik", "Normal"],
+      "types": [
+        "Electrik",
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2274,7 +2913,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/695.png",
-      "types": ["Electrik", "Normal"],
+      "types": [
+        "Electrik",
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2283,7 +2925,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/696.png",
-      "types": ["Roche", "Dragon"],
+      "types": [
+        "Roche",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2292,7 +2937,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/697.png",
-      "types": ["Roche", "Dragon"],
+      "types": [
+        "Roche",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2301,7 +2949,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/698.png",
-      "types": ["Roche", "Glace"],
+      "types": [
+        "Roche",
+        "Glace"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2310,7 +2961,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/699.png",
-      "types": ["Roche", "Glace"],
+      "types": [
+        "Roche",
+        "Glace"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2319,7 +2973,9 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/700.png",
-      "types": ["Fée"],
+      "types": [
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2328,7 +2984,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/701.png",
-      "types": ["Combat", "Vol"],
+      "types": [
+        "Combat",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2337,7 +2996,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/702.png",
-      "types": ["Electrik", "Fée"],
+      "types": [
+        "Electrik",
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2346,7 +3008,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/703.png",
-      "types": ["Roche", "Fée"],
+      "types": [
+        "Roche",
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2355,7 +3020,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/704.png",
-      "types": ["Dragon"],
+      "types": [
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2364,7 +3031,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/705.png",
-      "types": ["Dragon"],
+      "types": [
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2373,7 +3042,9 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/706.png",
-      "types": ["Dragon"],
+      "types": [
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2382,7 +3053,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/707.png",
-      "types": ["Acier", "Fée"],
+      "types": [
+        "Acier",
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2391,7 +3065,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/708.png",
-      "types": ["Spectre", "Plante"],
+      "types": [
+        "Spectre",
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2400,7 +3077,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/709.png",
-      "types": ["Spectre", "Plante"],
+      "types": [
+        "Spectre",
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2409,7 +3089,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/710.png",
-      "types": ["Spectre", "Plante"],
+      "types": [
+        "Spectre",
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2418,7 +3101,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/711.png",
-      "types": ["Spectre", "Plante"],
+      "types": [
+        "Spectre",
+        "Plante"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2427,7 +3113,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/712.png",
-      "types": ["Glace"],
+      "types": [
+        "Glace"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2436,7 +3124,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/713.png",
-      "types": ["Glace"],
+      "types": [
+        "Glace"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2445,7 +3135,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/714.png",
-      "types": ["Vol", "Dragon"],
+      "types": [
+        "Vol",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2454,7 +3147,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/715.png",
-      "types": ["Vol", "Dragon"],
+      "types": [
+        "Vol",
+        "Dragon"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2463,7 +3159,9 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/716.png",
-      "types": ["Fée"],
+      "types": [
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2472,7 +3170,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/717.png",
-      "types": ["Ténèbres", "Vol"],
+      "types": [
+        "Ténèbres",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2481,7 +3182,10 @@
       "hp": 41,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/718.png",
-      "types": ["Dragon", "Sol"],
+      "types": [
+        "Dragon",
+        "Sol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2490,7 +3194,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/719.png",
-      "types": ["Roche", "Fée"],
+      "types": [
+        "Roche",
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2499,7 +3206,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/720.png",
-      "types": ["Psy", "Spectre"],
+      "types": [
+        "Psy",
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2508,7 +3218,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/721.png",
-      "types": ["Feu", "Eau"],
+      "types": [
+        "Feu",
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2517,7 +3230,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/722.png",
-      "types": ["Plante", "Vol"],
+      "types": [
+        "Plante",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2526,7 +3242,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/723.png",
-      "types": ["Plante", "Vol"],
+      "types": [
+        "Plante",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2535,7 +3254,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/724.png",
-      "types": ["Plante", "Spectre"],
+      "types": [
+        "Plante",
+        "Spectre"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2544,7 +3266,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/725.png",
-      "types": ["Feu"],
+      "types": [
+        "Feu"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2553,7 +3277,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/726.png",
-      "types": ["Feu"],
+      "types": [
+        "Feu"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2562,7 +3288,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/727.png",
-      "types": ["Feu", "Ténèbres"],
+      "types": [
+        "Feu",
+        "Ténèbres"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2571,7 +3300,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/728.png",
-      "types": ["Eau"],
+      "types": [
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2580,7 +3311,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/729.png",
-      "types": ["Eau"],
+      "types": [
+        "Eau"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2589,7 +3322,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/730.png",
-      "types": ["Eau", "Fée"],
+      "types": [
+        "Eau",
+        "Fée"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2598,7 +3334,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/731.png",
-      "types": ["Normal", "Vol"],
+      "types": [
+        "Normal",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2607,7 +3346,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/732.png",
-      "types": ["Normal", "Vol"],
+      "types": [
+        "Normal",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2616,7 +3358,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/733.png",
-      "types": ["Normal", "Vol"],
+      "types": [
+        "Normal",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2625,7 +3370,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/734.png",
-      "types": ["Normal"],
+      "types": [
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2634,7 +3381,9 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/735.png",
-      "types": ["Normal"],
+      "types": [
+        "Normal"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2643,7 +3392,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/736.png",
-      "types": ["Insecte"],
+      "types": [
+        "Insecte"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2652,7 +3403,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/737.png",
-      "types": ["Insecte", "Electrik"],
+      "types": [
+        "Insecte",
+        "Electrik"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2661,7 +3415,10 @@
       "hp": 40,
       "cp": 10,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/738.png",
-      "types": ["Insecte", "Electrik"],
+      "types": [
+        "Insecte",
+        "Electrik"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2670,7 +3427,9 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/739.png",
-      "types": ["Combat"],
+      "types": [
+        "Combat"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2679,7 +3438,10 @@
       "hp": 39,
       "cp": 9,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/740.png",
-      "types": ["Combat", "Glace"],
+      "types": [
+        "Combat",
+        "Glace"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2688,7 +3450,10 @@
       "hp": 38,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/741.png",
-      "types": ["Feu", "Vol"],
+      "types": [
+        "Feu",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
@@ -2697,8 +3462,44 @@
       "hp": 78,
       "cp": 84,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png",
-      "types": ["Feu", "Vol"],
+      "types": [
+        "Feu",
+        "Vol"
+      ],
       "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "1722001781251",
+      "hp": 100,
+      "cp": 10,
+      "name": "SASA",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/233.png",
+      "types": [
+        "Normal"
+      ],
+      "created": "2024-07-26T13:49:41.251Z"
+    },
+    {
+      "id": "1722001810035",
+      "hp": "78",
+      "cp": "9",
+      "name": "Quentin",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/500.png",
+      "types": [
+        "Feu"
+      ],
+      "created": "2024-07-26T13:50:10.035Z"
+    },
+    {
+      "id": "1722002632697",
+      "hp": 100,
+      "cp": 10,
+      "name": "Nicolas",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1025.png",
+      "types": [
+        "Normal"
+      ],
+      "created": "2024-07-26T14:03:52.697Z"
     }
   ]
 }

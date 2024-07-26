@@ -99,7 +99,7 @@ const PokemonForm: FunctionComponent<Props> = ({ pokemon, isEditForm }) => {
     // Validator hp
     if (!/^[0-9]{1,3}$/.test(form.hp.value)) {
       const errorMsg: string =
-        "Les points de vie du pokémon sont compris entre 0 et 999.";
+        "Les points de vie du pokémon sont compris entre 0 et 100.";
       const newField: Field = {
         value: form.hp.value,
         error: errorMsg,
@@ -232,11 +232,6 @@ const PokemonForm: FunctionComponent<Props> = ({ pokemon, isEditForm }) => {
         <div className="col s12 m8 offset-m2">
           <div className="card hoverable">
             <div className="card-image">
-              <img
-                src={pokemon.picture}
-                alt={pokemon.name}
-                style={{ width: "250px", margin: "0 auto" }}
-              />
               <span className="btn-floating halfway-fab waves-effect waves-light">
                 <i onClick={deletePokemon} className="material-icons">
                   delete
@@ -247,7 +242,9 @@ const PokemonForm: FunctionComponent<Props> = ({ pokemon, isEditForm }) => {
               <div className="card-content">
                 {isAddForm() && (
                   <div className="form-group">
-                    <label htmlFor="picture">Image</label>
+                    <label htmlFor="picture">
+                      Image, Remplacez XXX par un nombre compris entre 1 et 1025
+                    </label>
                     <input
                       id="picture"
                       type="text"
@@ -278,7 +275,7 @@ const PokemonForm: FunctionComponent<Props> = ({ pokemon, isEditForm }) => {
                 </div>
                 {/* Pokemon hp */}
                 <div className="form-group">
-                  <label htmlFor="hp">Point de vie</label>
+                  <label htmlFor="hp">Point de vie, max 100</label>
                   <input
                     id="hp"
                     name="hp"
@@ -288,9 +285,10 @@ const PokemonForm: FunctionComponent<Props> = ({ pokemon, isEditForm }) => {
                     onChange={(e) => handleInputChange(e)}
                   ></input>
                 </div>
+
                 {/* Pokemon cp */}
                 <div className="form-group">
-                  <label htmlFor="cp">Dégâts</label>
+                  <label htmlFor="cp">Dégâts, max 99</label>
                   <input
                     id="cp"
                     name="cp"
