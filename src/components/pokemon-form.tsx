@@ -243,7 +243,7 @@ const PokemonForm: FunctionComponent<Props> = ({ pokemon, isEditForm }) => {
                 {isAddForm() && (
                   <div className="form-group">
                     <label htmlFor="picture">
-                      Image, Remplacez XXX par un nombre compris entre 1 et 1025
+                      Image, Remplacer XXX par un nombre compris entre 1 et 1025
                     </label>
                     <input
                       id="picture"
