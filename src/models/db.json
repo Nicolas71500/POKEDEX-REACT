@@ -2,14 +2,12 @@
   "pokemons": [
     {
       "id": "1",
-      "name": "Bulbizarre ",
+      "name": "Bulbizarre",
       "hp": 25,
       "cp": 5,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png",
-      "types": [
-        "Plante",
-        "Poison"
-      ]
+      "types": ["Plante", "Poison"],
+      "created": "2024-07-26T10:56:44.982Z"
     },
     {
       "id": "2",
@@ -17,9 +15,8 @@
       "hp": 28,
       "cp": 6,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png",
-      "types": [
-        "Feu"
-      ]
+      "types": ["Feu"],
+      "created": "2024-07-26T10:56:44.982Z"
     },
     {
       "id": "3",
@@ -27,9 +24,8 @@
       "hp": 21,
       "cp": 4,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png",
-      "types": [
-        "Eau"
-      ]
+      "types": ["Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
     },
     {
       "id": "4",
@@ -37,10 +33,8 @@
       "hp": 16,
       "cp": 2,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/013.png",
-      "types": [
-        "Insecte",
-        "Poison"
-      ]
+      "types": ["Insecte", "Poison"],
+      "created": "2024-07-26T10:56:44.982Z"
     },
     {
       "id": "5",
@@ -48,10 +42,8 @@
       "hp": 30,
       "cp": 7,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/016.png",
-      "types": [
-        "Normal",
-        "Vol"
-      ]
+      "types": ["Normal", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
     },
     {
       "id": "6",
@@ -59,9 +51,8 @@
       "hp": 18,
       "cp": 6,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png",
-      "types": [
-        "Normal"
-      ]
+      "types": ["Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
     },
     {
       "id": "7",
@@ -69,10 +60,8 @@
       "hp": 14,
       "cp": 5,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/021.png",
-      "types": [
-        "Normal",
-        "Vol"
-      ]
+      "types": ["Normal", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
     },
     {
       "id": "8",
@@ -80,9 +69,8 @@
       "hp": 16,
       "cp": 4,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/023.png",
-      "types": [
-        "Poison"
-      ]
+      "types": ["Poison"],
+      "created": "2024-07-26T10:56:44.982Z"
     },
     {
       "id": "9",
@@ -90,9 +78,8 @@
       "hp": 21,
       "cp": 7,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
-      "types": [
-        "Electrik"
-      ]
+      "types": ["Electrik"],
+      "created": "2024-07-26T10:56:44.982Z"
     },
     {
       "id": "10",
@@ -100,9 +87,8 @@
       "hp": 19,
       "cp": 3,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png",
-      "types": [
-        "Normal"
-      ]
+      "types": ["Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
     },
     {
       "id": "11",
@@ -110,9 +96,8 @@
       "hp": 25,
       "cp": 5,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/035.png",
-      "types": [
-        "Fée"
-      ]
+      "types": ["Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
     },
     {
       "id": "12",
@@ -120,42 +105,2600 @@
       "hp": 17,
       "cp": 8,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png",
-      "types": [
-        "Feu"
-      ]
-    },
-    {
-      "id": "154",
-      "hp": 100,
-      "cp": 10,
-      "name": "oui",
-      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/154.png",
-      "types": [
-        "Normal"
-      ],
-      "created": "2024-07-26T10:33:25.542Z"
-    },
-    {
-      "id": "154",
-      "hp": 100,
-      "cp": 10,
-      "name": "oui",
-      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/157.png",
-      "types": [
-        "Normal"
-      ],
+      "types": ["Feu"],
       "created": "2024-07-26T10:56:44.982Z"
     },
     {
-      "id": 1721992043284,
-      "hp": 100,
+      "id": "13",
+      "name": "Rondoudou",
+      "hp": 26,
+      "cp": 6,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/039.png",
+      "types": ["Normal", "Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "14",
+      "name": "Nosferapti",
+      "hp": 16,
+      "cp": 4,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/041.png",
+      "types": ["Poison", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "15",
+      "name": "Mystherbe",
+      "hp": 18,
+      "cp": 5,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/043.png",
+      "types": ["Plante", "Poison"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "16",
+      "name": "Paras",
+      "hp": 14,
+      "cp": 4,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/046.png",
+      "types": ["Insecte", "Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "17",
+      "name": "Mimitoss",
+      "hp": 13,
+      "cp": 3,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/048.png",
+      "types": ["Insecte", "Poison"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "18",
+      "name": "Papilusion",
+      "hp": 15,
+      "cp": 6,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png",
+      "types": ["Insecte", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "19",
+      "name": "Tauros",
+      "hp": 28,
+      "cp": 7,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/128.png",
+      "types": ["Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "20",
+      "name": "Lokhlass",
+      "hp": 32,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/131.png",
+      "types": ["Eau", "Glace"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "21",
+      "name": "Dracolosse",
+      "hp": 40,
       "cp": 10,
-      "name": "surprise",
-      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/161.png",
-      "types": [
-        "Normal"
-      ],
-      "created": "2024-07-26T11:07:23.284Z"
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/149.png",
+      "types": ["Dragon", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "22",
+      "name": "Electhor",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/145.png",
+      "types": ["Electrik", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "23",
+      "name": "Artikodin",
+      "hp": 38,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/144.png",
+      "types": ["Glace", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "24",
+      "name": "Sulfura",
+      "hp": 37,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/146.png",
+      "types": ["Feu", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "25",
+      "name": "Mewtwo",
+      "hp": 41,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150.png",
+      "types": ["Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "26",
+      "name": "Mew",
+      "hp": 42,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/151.png",
+      "types": ["Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "27",
+      "name": "Raikou",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/243.png",
+      "types": ["Electrik"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "28",
+      "name": "Entei",
+      "hp": 37,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/244.png",
+      "types": ["Feu"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "29",
+      "name": "Suicune",
+      "hp": 38,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/245.png",
+      "types": ["Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "30",
+      "name": "Lugia",
+      "hp": 42,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/249.png",
+      "types": ["Psy", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "31",
+      "name": "Ho-Oh",
+      "hp": 41,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/250.png",
+      "types": ["Feu", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "32",
+      "name": "Celebi",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/251.png",
+      "types": ["Psy", "Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "33",
+      "name": "Regirock",
+      "hp": 38,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/377.png",
+      "types": ["Roche"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "34",
+      "name": "Regice",
+      "hp": 38,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/378.png",
+      "types": ["Glace"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "35",
+      "name": "Registeel",
+      "hp": 38,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/379.png",
+      "types": ["Acier"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "36",
+      "name": "Latias",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/380.png",
+      "types": ["Dragon", "Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "37",
+      "name": "Latios",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/381.png",
+      "types": ["Dragon", "Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "38",
+      "name": "Kyogre",
+      "hp": 42,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/382.png",
+      "types": ["Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "39",
+      "name": "Groudon",
+      "hp": 42,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/383.png",
+      "types": ["Sol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "40",
+      "name": "Rayquaza",
+      "hp": 41,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/384.png",
+      "types": ["Dragon", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "41",
+      "name": "Jirachi",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/385.png",
+      "types": ["Acier", "Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "42",
+      "name": "Deoxys",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/386.png",
+      "types": ["Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "43",
+      "name": "Dialga",
+      "hp": 41,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/483.png",
+      "types": ["Acier", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "44",
+      "name": "Palkia",
+      "hp": 41,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/484.png",
+      "types": ["Eau", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "45",
+      "name": "Giratina",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/487.png",
+      "types": ["Spectre", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "46",
+      "name": "Darkrai",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/491.png",
+      "types": ["Ténèbres"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "47",
+      "name": "Shaymin",
+      "hp": 38,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/492.png",
+      "types": ["Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "48",
+      "name": "Arceus",
+      "hp": 42,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png",
+      "types": ["Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "49",
+      "name": "Victini",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/494.png",
+      "types": ["Psy", "Feu"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "50",
+      "name": "Cobaltium",
+      "hp": 38,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/638.png",
+      "types": ["Acier", "Combat"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "51",
+      "name": "Terrakium",
+      "hp": 38,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/639.png",
+      "types": ["Roche", "Combat"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "52",
+      "name": "Viridium",
+      "hp": 38,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/640.png",
+      "types": ["Plante", "Combat"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "53",
+      "name": "Tornadus",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/641.png",
+      "types": ["Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "54",
+      "name": "Thundurus",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/642.png",
+      "types": ["Electrik", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "55",
+      "name": "Reshiram",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/643.png",
+      "types": ["Dragon", "Feu"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "56",
+      "name": "Zekrom",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/644.png",
+      "types": ["Dragon", "Electrik"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "57",
+      "name": "Landorus",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/645.png",
+      "types": ["Sol", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "58",
+      "name": "Kyurem",
+      "hp": 41,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/646.png",
+      "types": ["Dragon", "Glace"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "59",
+      "name": "Xerneas",
+      "hp": 42,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/716.png",
+      "types": ["Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "60",
+      "name": "Yveltal",
+      "hp": 42,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/717.png",
+      "types": ["Ténèbres", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "61",
+      "name": "Zygarde",
+      "hp": 41,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/718.png",
+      "types": ["Dragon", "Sol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "62",
+      "name": "Diancie",
+      "hp": 40,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/719.png",
+      "types": ["Roche", "Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "63",
+      "name": "Hoopa",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/720.png",
+      "types": ["Psy", "Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "64",
+      "name": "Volcanion",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/721.png",
+      "types": ["Feu", "Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "65",
+      "name": "Type: Null",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/772.png",
+      "types": ["Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "66",
+      "name": "Silvallié",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/773.png",
+      "types": ["Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "67",
+      "name": "Cosmog",
+      "hp": 37,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/789.png",
+      "types": ["Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "68",
+      "name": "Cosmovum",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/790.png",
+      "types": ["Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "69",
+      "name": "Solgaleo",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/791.png",
+      "types": ["Psy", "Acier"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "70",
+      "name": "Lunala",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/792.png",
+      "types": ["Psy", "Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "71",
+      "name": "Necrozma",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/800.png",
+      "types": ["Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "72",
+      "name": "Magearna",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/801.png",
+      "types": ["Acier", "Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "73",
+      "name": "Marshadow",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/802.png",
+      "types": ["Combat", "Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "74",
+      "name": "Zeraora",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/807.png",
+      "types": ["Electrik"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "75",
+      "name": "Meltan",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/808.png",
+      "types": ["Acier"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "76",
+      "name": "Melmetal",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/809.png",
+      "types": ["Acier"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "77",
+      "name": "Zacian",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/888.png",
+      "types": ["Fée", "Acier"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "78",
+      "name": "Zamazenta",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/889.png",
+      "types": ["Combat", "Acier"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "79",
+      "name": "Ethernatos",
+      "hp": 41,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/890.png",
+      "types": ["Poison", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "80",
+      "name": "Kubfu",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/891.png",
+      "types": ["Combat"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "81",
+      "name": "Urshifu",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/892.png",
+      "types": ["Combat", "Ténèbres"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "82",
+      "name": "Zarude",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/893.png",
+      "types": ["Ténèbres", "Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "83",
+      "name": "Regieleki",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/894.png",
+      "types": ["Electrik"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "84",
+      "name": "Regidrago",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/895.png",
+      "types": ["Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "85",
+      "name": "Glastrier",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/896.png",
+      "types": ["Glace"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "86",
+      "name": "Spectrier",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/897.png",
+      "types": ["Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "87",
+      "name": "Calyrex",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/898.png",
+      "types": ["Psy", "Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "88",
+      "name": "Wyrdeer",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/899.png",
+      "types": ["Normal", "Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "89",
+      "name": "Kleavor",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/900.png",
+      "types": ["Insecte", "Roche"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "90",
+      "name": "Ursaluna",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/901.png",
+      "types": ["Normal", "Sol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "91",
+      "name": "Basculegion",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/902.png",
+      "types": ["Eau", "Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "92",
+      "name": "Sneasler",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/903.png",
+      "types": ["Combat", "Poison"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "93",
+      "name": "Overqwil",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/904.png",
+      "types": ["Poison", "Ténèbres"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "94",
+      "name": "Enamorus",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/905.png",
+      "types": ["Fée", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "95",
+      "name": "Sprigatito",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/906.png",
+      "types": ["Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "96",
+      "name": "Fuecoco",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/909.png",
+      "types": ["Feu"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "97",
+      "name": "Quaxly",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/912.png",
+      "types": ["Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "98",
+      "name": "Koraidon",
+      "hp": 41,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1008.png",
+      "types": ["Combat", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "99",
+      "name": "Miraidon",
+      "hp": 41,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1009.png",
+      "types": ["Electrik", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "100",
+      "name": "Iron Leaves",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/1010.png",
+      "types": ["Psy", "Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "101",
+      "name": "Buzzwole",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/794.png",
+      "types": ["Insecte", "Combat"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "102",
+      "name": "Pheromosa",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/795.png",
+      "types": ["Insecte", "Combat"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "103",
+      "name": "Xurkitree",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/796.png",
+      "types": ["Electrik"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "104",
+      "name": "Celesteela",
+      "hp": 41,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/797.png",
+      "types": ["Acier", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "105",
+      "name": "Kartana",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/798.png",
+      "types": ["Plante", "Acier"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "106",
+      "name": "Guzzlord",
+      "hp": 42,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/799.png",
+      "types": ["Ténèbres", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "107",
+      "name": "Necrozma",
+      "hp": 41,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/800.png",
+      "types": ["Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "108",
+      "name": "Magearna",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/801.png",
+      "types": ["Acier", "Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "109",
+      "name": "Marshadow",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/802.png",
+      "types": ["Combat", "Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "110",
+      "name": "Poipole",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/803.png",
+      "types": ["Poison"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "111",
+      "name": "Naganadel",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/804.png",
+      "types": ["Poison", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "112",
+      "name": "Stakataka",
+      "hp": 41,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/805.png",
+      "types": ["Roche", "Acier"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "113",
+      "name": "Blacephalon",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/806.png",
+      "types": ["Feu", "Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "114",
+      "name": "Zeraora",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/807.png",
+      "types": ["Electrik"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "115",
+      "name": "Meltan",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/808.png",
+      "types": ["Acier"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "116",
+      "name": "Melmetal",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/809.png",
+      "types": ["Acier"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "117",
+      "name": "Grookey",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/810.png",
+      "types": ["Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "118",
+      "name": "Scorbunny",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/813.png",
+      "types": ["Feu"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "119",
+      "name": "Sobble",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/816.png",
+      "types": ["Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "120",
+      "name": "Rillaboom",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/812.png",
+      "types": ["Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "121",
+      "name": "Cinderace",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/815.png",
+      "types": ["Feu"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "122",
+      "name": "Inteleon",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/818.png",
+      "types": ["Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "123",
+      "name": "Skwovet",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/819.png",
+      "types": ["Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "124",
+      "name": "Greedent",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/820.png",
+      "types": ["Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "125",
+      "name": "Rookidee",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/821.png",
+      "types": ["Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "126",
+      "name": "Corvisquire",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/822.png",
+      "types": ["Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "127",
+      "name": "Corviknight",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/823.png",
+      "types": ["Vol", "Acier"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "128",
+      "name": "Blipbug",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/824.png",
+      "types": ["Insecte"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "129",
+      "name": "Dottler",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/825.png",
+      "types": ["Insecte", "Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "130",
+      "name": "Orbeetle",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/826.png",
+      "types": ["Insecte", "Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "131",
+      "name": "Nickit",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/827.png",
+      "types": ["Ténèbres"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "132",
+      "name": "Thievul",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/828.png",
+      "types": ["Ténèbres"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "133",
+      "name": "Gossifleur",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/829.png",
+      "types": ["Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "134",
+      "name": "Eldegoss",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/830.png",
+      "types": ["Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "135",
+      "name": "Wooloo",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/831.png",
+      "types": ["Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "136",
+      "name": "Dubwool",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/832.png",
+      "types": ["Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "137",
+      "name": "Chewtle",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/833.png",
+      "types": ["Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "138",
+      "name": "Drednaw",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/834.png",
+      "types": ["Eau", "Roche"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "139",
+      "name": "Yamper",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/835.png",
+      "types": ["Electrik"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "140",
+      "name": "Boltund",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/836.png",
+      "types": ["Electrik"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "141",
+      "name": "Rolycoly",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/837.png",
+      "types": ["Roche"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "142",
+      "name": "Carkol",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/838.png",
+      "types": ["Roche", "Feu"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "143",
+      "name": "Coalossal",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/839.png",
+      "types": ["Roche", "Feu"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "144",
+      "name": "Applin",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/840.png",
+      "types": ["Plante", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "145",
+      "name": "Flapple",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/841.png",
+      "types": ["Plante", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "146",
+      "name": "Appletun",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/842.png",
+      "types": ["Plante", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "147",
+      "name": "Silicobra",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/843.png",
+      "types": ["Sol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "148",
+      "name": "Sandaconda",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/844.png",
+      "types": ["Sol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "149",
+      "name": "Cramorant",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/845.png",
+      "types": ["Vol", "Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "150",
+      "name": "Arrokuda",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/846.png",
+      "types": ["Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "151",
+      "name": "Barraskewda",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/847.png",
+      "types": ["Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "152",
+      "name": "Toxel",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/848.png",
+      "types": ["Electrik", "Poison"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "153",
+      "name": "Toxtricity",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/849.png",
+      "types": ["Electrik", "Poison"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "154",
+      "name": "Sizzlipede",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/850.png",
+      "types": ["Feu", "Insecte"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "155",
+      "name": "Centiskorch",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/851.png",
+      "types": ["Feu", "Insecte"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "156",
+      "name": "Clobbopus",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/852.png",
+      "types": ["Combat"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "157",
+      "name": "Grapploct",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/853.png",
+      "types": ["Combat"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "158",
+      "name": "Sinistea",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/854.png",
+      "types": ["Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "159",
+      "name": "Polteageist",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/855.png",
+      "types": ["Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "160",
+      "name": "Hatenna",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/856.png",
+      "types": ["Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "161",
+      "name": "Hattrem",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/857.png",
+      "types": ["Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "162",
+      "name": "Hatterene",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/858.png",
+      "types": ["Psy", "Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "163",
+      "name": "Impidimp",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/859.png",
+      "types": ["Ténèbres", "Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "164",
+      "name": "Morgrem",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/860.png",
+      "types": ["Ténèbres", "Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "165",
+      "name": "Grimmsnarl",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/861.png",
+      "types": ["Ténèbres", "Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "166",
+      "name": "Obstagoon",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/862.png",
+      "types": ["Ténèbres", "Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "167",
+      "name": "Perrserker",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/863.png",
+      "types": ["Acier"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "168",
+      "name": "Cursola",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/864.png",
+      "types": ["Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "169",
+      "name": "Sirfetch'd",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/865.png",
+      "types": ["Combat"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "170",
+      "name": "Mr. Rime",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/866.png",
+      "types": ["Glace", "Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "171",
+      "name": "Runerigus",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/867.png",
+      "types": ["Sol", "Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "172",
+      "name": "Milcery",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/868.png",
+      "types": ["Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "173",
+      "name": "Alcremie",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/869.png",
+      "types": ["Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "174",
+      "name": "Falinks",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/870.png",
+      "types": ["Combat"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "175",
+      "name": "Pincurchin",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/871.png",
+      "types": ["Electrik"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "176",
+      "name": "Snom",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/872.png",
+      "types": ["Glace", "Insecte"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "177",
+      "name": "Frosmoth",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/873.png",
+      "types": ["Glace", "Insecte"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "178",
+      "name": "Stonjourner",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/874.png",
+      "types": ["Roche"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "179",
+      "name": "Eiscue",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/875.png",
+      "types": ["Glace"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "180",
+      "name": "Indeedee",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/876.png",
+      "types": ["Psy", "Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "181",
+      "name": "Morpeko",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/877.png",
+      "types": ["Electrik", "Ténèbres"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "182",
+      "name": "Cufant",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/878.png",
+      "types": ["Acier"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "183",
+      "name": "Copperajah",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/879.png",
+      "types": ["Acier"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "184",
+      "name": "Dracozolt",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/880.png",
+      "types": ["Electrik", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "185",
+      "name": "Arctozolt",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/881.png",
+      "types": ["Electrik", "Glace"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "186",
+      "name": "Dracovish",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/882.png",
+      "types": ["Eau", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "187",
+      "name": "Arctovish",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/883.png",
+      "types": ["Eau", "Glace"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "188",
+      "name": "Duraludon",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/884.png",
+      "types": ["Acier", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "189",
+      "name": "Dreepy",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/885.png",
+      "types": ["Dragon", "Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "190",
+      "name": "Drakloak",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/886.png",
+      "types": ["Dragon", "Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "191",
+      "name": "Dragapult",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/887.png",
+      "types": ["Dragon", "Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "192",
+      "name": "Zacian",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/888.png",
+      "types": ["Fée", "Acier"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "194",
+      "name": "Eternatus",
+      "hp": 41,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/890.png",
+      "types": ["Poison", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "195",
+      "name": "Kubfu",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/891.png",
+      "types": ["Combat"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "196",
+      "name": "Urshifu",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/892.png",
+      "types": ["Combat", "Ténèbres"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "197",
+      "name": "Zarude",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/893.png",
+      "types": ["Ténèbres", "Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "198",
+      "name": "Regieleki",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/894.png",
+      "types": ["Electrik"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "199",
+      "name": "Regidrago",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/895.png",
+      "types": ["Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "200",
+      "name": "Glastrier",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/896.png",
+      "types": ["Glace"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "201",
+      "name": "Thundurus",
+      "hp": 38,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/642.png",
+      "types": ["Electrik", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "202",
+      "name": "Reshiram",
+      "hp": 39,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/643.png",
+      "types": ["Dragon", "Feu"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "203",
+      "name": "Zekrom",
+      "hp": 39,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/644.png",
+      "types": ["Dragon", "Electrik"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "204",
+      "name": "Landorus",
+      "hp": 39,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/645.png",
+      "types": ["Sol", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "205",
+      "name": "Kyurem",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/646.png",
+      "types": ["Dragon", "Glace"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "206",
+      "name": "Keldeo",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/647.png",
+      "types": ["Eau", "Combat"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "207",
+      "name": "Meloetta",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/648.png",
+      "types": ["Normal", "Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "208",
+      "name": "Genesect",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/649.png",
+      "types": ["Insecte", "Acier"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "209",
+      "name": "Chespin",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/650.png",
+      "types": ["Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "210",
+      "name": "Quilladin",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/651.png",
+      "types": ["Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "211",
+      "name": "Chesnaught",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/652.png",
+      "types": ["Plante", "Combat"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "212",
+      "name": "Fennekin",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/653.png",
+      "types": ["Feu"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "213",
+      "name": "Braixen",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/654.png",
+      "types": ["Feu"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "214",
+      "name": "Delphox",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/655.png",
+      "types": ["Feu", "Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "215",
+      "name": "Froakie",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/656.png",
+      "types": ["Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "216",
+      "name": "Frogadier",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/657.png",
+      "types": ["Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "217",
+      "name": "Greninja",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/658.png",
+      "types": ["Eau", "Ténèbres"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "218",
+      "name": "Bunnelby",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/659.png",
+      "types": ["Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "219",
+      "name": "Diggersby",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/660.png",
+      "types": ["Normal", "Sol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "220",
+      "name": "Fletchling",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/661.png",
+      "types": ["Normal", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "221",
+      "name": "Fletchinder",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/662.png",
+      "types": ["Feu", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "222",
+      "name": "Talonflame",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/663.png",
+      "types": ["Feu", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "223",
+      "name": "Scatterbug",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/664.png",
+      "types": ["Insecte"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "224",
+      "name": "Spewpa",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/665.png",
+      "types": ["Insecte"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "225",
+      "name": "Vivillon",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/666.png",
+      "types": ["Insecte", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "226",
+      "name": "Litleo",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/667.png",
+      "types": ["Feu", "Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "227",
+      "name": "Pyroar",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/668.png",
+      "types": ["Feu", "Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "228",
+      "name": "Flabébé",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/669.png",
+      "types": ["Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "229",
+      "name": "Floette",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/670.png",
+      "types": ["Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "230",
+      "name": "Florges",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/671.png",
+      "types": ["Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "231",
+      "name": "Skiddo",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/672.png",
+      "types": ["Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "232",
+      "name": "Gogoat",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/673.png",
+      "types": ["Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "233",
+      "name": "Pancham",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/674.png",
+      "types": ["Combat"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "234",
+      "name": "Pangoro",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/675.png",
+      "types": ["Combat", "Ténèbres"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "235",
+      "name": "Furfrou",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/676.png",
+      "types": ["Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "236",
+      "name": "Espurr",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/677.png",
+      "types": ["Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "237",
+      "name": "Meowstic",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/678.png",
+      "types": ["Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "238",
+      "name": "Honedge",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/679.png",
+      "types": ["Acier", "Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "239",
+      "name": "Doublade",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/680.png",
+      "types": ["Acier", "Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "240",
+      "name": "Aegislash",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/681.png",
+      "types": ["Acier", "Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "241",
+      "name": "Spritzee",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/682.png",
+      "types": ["Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "242",
+      "name": "Aromatisse",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/683.png",
+      "types": ["Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "243",
+      "name": "Swirlix",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/684.png",
+      "types": ["Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "244",
+      "name": "Slurpuff",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/685.png",
+      "types": ["Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "245",
+      "name": "Inkay",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/686.png",
+      "types": ["Ténèbres", "Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "246",
+      "name": "Malamar",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/687.png",
+      "types": ["Ténèbres", "Psy"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "247",
+      "name": "Binacle",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/688.png",
+      "types": ["Roche", "Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "248",
+      "name": "Barbaracle",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/689.png",
+      "types": ["Roche", "Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "249",
+      "name": "Skrelp",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/690.png",
+      "types": ["Poison", "Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "250",
+      "name": "Dragalge",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/691.png",
+      "types": ["Poison", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "251",
+      "name": "Clauncher",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/692.png",
+      "types": ["Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "252",
+      "name": "Clawitzer",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/693.png",
+      "types": ["Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "253",
+      "name": "Helioptile",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/694.png",
+      "types": ["Electrik", "Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "254",
+      "name": "Heliolisk",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/695.png",
+      "types": ["Electrik", "Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "255",
+      "name": "Tyrunt",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/696.png",
+      "types": ["Roche", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "256",
+      "name": "Tyrantrum",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/697.png",
+      "types": ["Roche", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "257",
+      "name": "Amaura",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/698.png",
+      "types": ["Roche", "Glace"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "258",
+      "name": "Aurorus",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/699.png",
+      "types": ["Roche", "Glace"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "259",
+      "name": "Sylveon",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/700.png",
+      "types": ["Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "260",
+      "name": "Hawlucha",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/701.png",
+      "types": ["Combat", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "261",
+      "name": "Dedenne",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/702.png",
+      "types": ["Electrik", "Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "262",
+      "name": "Carbink",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/703.png",
+      "types": ["Roche", "Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "263",
+      "name": "Goomy",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/704.png",
+      "types": ["Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "264",
+      "name": "Sliggoo",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/705.png",
+      "types": ["Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "265",
+      "name": "Goodra",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/706.png",
+      "types": ["Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "266",
+      "name": "Klefki",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/707.png",
+      "types": ["Acier", "Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "267",
+      "name": "Phantump",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/708.png",
+      "types": ["Spectre", "Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "268",
+      "name": "Trevenant",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/709.png",
+      "types": ["Spectre", "Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "269",
+      "name": "Pumpkaboo",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/710.png",
+      "types": ["Spectre", "Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "270",
+      "name": "Gourgeist",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/711.png",
+      "types": ["Spectre", "Plante"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "271",
+      "name": "Bergmite",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/712.png",
+      "types": ["Glace"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "272",
+      "name": "Avalugg",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/713.png",
+      "types": ["Glace"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "273",
+      "name": "Noibat",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/714.png",
+      "types": ["Vol", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "274",
+      "name": "Noivern",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/715.png",
+      "types": ["Vol", "Dragon"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "275",
+      "name": "Xerneas",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/716.png",
+      "types": ["Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "276",
+      "name": "Yveltal",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/717.png",
+      "types": ["Ténèbres", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "277",
+      "name": "Zygarde",
+      "hp": 41,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/718.png",
+      "types": ["Dragon", "Sol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "278",
+      "name": "Diancie",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/719.png",
+      "types": ["Roche", "Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "279",
+      "name": "Hoopa",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/720.png",
+      "types": ["Psy", "Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "280",
+      "name": "Volcanion",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/721.png",
+      "types": ["Feu", "Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "281",
+      "name": "Rowlet",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/722.png",
+      "types": ["Plante", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "282",
+      "name": "Dartrix",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/723.png",
+      "types": ["Plante", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "283",
+      "name": "Decidueye",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/724.png",
+      "types": ["Plante", "Spectre"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "284",
+      "name": "Litten",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/725.png",
+      "types": ["Feu"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "285",
+      "name": "Torracat",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/726.png",
+      "types": ["Feu"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "286",
+      "name": "Incineroar",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/727.png",
+      "types": ["Feu", "Ténèbres"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "287",
+      "name": "Popplio",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/728.png",
+      "types": ["Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "288",
+      "name": "Brionne",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/729.png",
+      "types": ["Eau"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "289",
+      "name": "Primarina",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/730.png",
+      "types": ["Eau", "Fée"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "290",
+      "name": "Pikipek",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/731.png",
+      "types": ["Normal", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "291",
+      "name": "Trumbeak",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/732.png",
+      "types": ["Normal", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "292",
+      "name": "Toucannon",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/733.png",
+      "types": ["Normal", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "293",
+      "name": "Yungoos",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/734.png",
+      "types": ["Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "294",
+      "name": "Gumshoos",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/735.png",
+      "types": ["Normal"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "295",
+      "name": "Grubbin",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/736.png",
+      "types": ["Insecte"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "296",
+      "name": "Charjabug",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/737.png",
+      "types": ["Insecte", "Electrik"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "297",
+      "name": "Vikavolt",
+      "hp": 40,
+      "cp": 10,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/738.png",
+      "types": ["Insecte", "Electrik"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "298",
+      "name": "Crabrawler",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/739.png",
+      "types": ["Combat"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "299",
+      "name": "Crabominable",
+      "hp": 39,
+      "cp": 9,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/740.png",
+      "types": ["Combat", "Glace"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "300",
+      "name": "Oricorio",
+      "hp": 38,
+      "cp": 8,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/741.png",
+      "types": ["Feu", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
+    },
+    {
+      "id": "301",
+      "name": "Dracaufeu",
+      "hp": 78,
+      "cp": 84,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png",
+      "types": ["Feu", "Vol"],
+      "created": "2024-07-26T10:56:44.982Z"
     }
   ]
 }

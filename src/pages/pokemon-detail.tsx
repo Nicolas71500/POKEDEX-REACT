@@ -1,7 +1,6 @@
 import React, { FunctionComponent, useState, useEffect } from "react";
 import { RouteComponentProps, Link } from "react-router-dom";
 import Pokemon from "../models/pokemon";
-import formatDate from "../helpers/format-date";
 import formatType from "../helpers/format-type";
 import PokemonService from "../services/pokemon-service";
 
@@ -69,10 +68,6 @@ const PokemonsDetail: FunctionComponent<RouteComponentProps<Params>> = ({
                             </span>
                           ))}
                         </td>
-                      </tr>
-                      <tr>
-                        <td>Date de création</td>
-                        <td>{formatDate(pokemon.created)}</td>
                       </tr>
                     </tbody>
                   </table>
